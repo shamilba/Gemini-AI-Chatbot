@@ -83,7 +83,7 @@ with st.sidebar:
         st.rerun()
 
     st.markdown("---")
-    st.caption("Model: Gemini 3.7 Flash")
+    st.caption("Powered by Google Gemini")
 
     st.markdown("---")
     st.caption("Python • Streamlit • Gemini API")
