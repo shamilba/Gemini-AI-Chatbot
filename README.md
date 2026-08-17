@@ -6,7 +6,7 @@ An AI-powered chatbot built with **Python**, **Streamlit**, and the **Google Gem
 
 ## 🚀 Live Demo
 
-🔗 **Live App:** *(Paste your Streamlit link here)*
+🔗 **Live App:** *https://gemini-ai-chatbot-3gze5uwsrmso3mq97j4zkq.streamlit.app/*
 
 ---
 
